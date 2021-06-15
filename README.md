@@ -1,5 +1,8 @@
 # HTML-Canvas
 
+Basic Web application made with HTML CSS JS and canvas 
+
+Draw and FUN
 ---
 Visit Link
 
